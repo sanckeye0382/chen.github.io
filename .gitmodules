@@ -1,0 +1,4 @@
+[submodule "桌面/my_blog/Newbie-blog/themes/kayal"]
+	path = 桌面/my_blog/Newbie-blog/themes/kayal
+	url = https://github.com/mnjm/kayal.git
+	branch = main
